@@ -1,0 +1,17 @@
+{
+    "name": "alanbcole/express-upstream",
+    "description": "Basic setup for CU Web Express website.",
+    "authors": [
+        {
+            "name": "AlanBCole",
+            "email": "alantuneit@gmail.com"
+        }
+    ],
+    "require": {},
+        "repositories": [
+        {
+            "type": "VCS",
+            "url": ""
+        }
+    ]
+}
